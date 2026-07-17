@@ -39,5 +39,6 @@ div.principais {
 .button:hover {
   transform: scale(1.1);
   background: #3a2313;
+  box-shadow: 0.1vw 0.1vw 0.5vw black;
 }
 </style>

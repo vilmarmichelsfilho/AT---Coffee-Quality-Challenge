@@ -50,6 +50,10 @@ a {
     font-size: 1vw;
     transition: 0.3s;
 }
+a:hover {
+    transform: scale(1.1);
+    text-shadow: 0.1vw 0.1vw 0.1vw black;
+}
 .logo {
     color: #340200;
     align-items: center;
