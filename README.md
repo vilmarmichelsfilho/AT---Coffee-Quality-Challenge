@@ -1,44 +1,12 @@
-# .
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Recommended Browser Setup
-
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## Coffee Quality Challenge Site
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f50b8ad-842b-4773-a547-b1803768b636" />
+* Aqui temos a tela inicial do site, apenas com algumas informações basicas(3 cards), que apresentam a maior nota de café, o ultimo avaliado, e o total de cafés avaliados. Todos cards componentizados. <br>
+<br> <br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc769049-4cf1-41de-ab2e-194869cd0390" />
+* Página de avaliações onde você pode ver os cafés já avaliados e também avaliar novos usando o formulario ao lado. <br>
+* Tanto os cards de cafés avaliados, quanto o formulario são componentizados. <br>
+<br> <br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06bc5254-fb4a-405d-a3ee-1c217ff1aff0" />
+* Página de ranking dos cafés que já foram avaliados. <br>
+* Em cima tem um card com o total de cafés já avaliados. <br>
+* Os cards de posições pela média são componentizados também.
